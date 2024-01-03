@@ -1,6 +1,6 @@
-div {background-color: aquamarine;
+div {background-color: red;
 padding: 20px;
-
+border: 100px color black;
 margin-bottom: 10px;
-
+text-align: center;
 }
